@@ -1,5 +1,5 @@
-# mctr-filters 
-uBlock Origin filtresi ile **MC-TR forumundaki reklamları engelleyin**.  
+# uBlock Filtrelerim
+uBlock Origin filtresi ile **keşfettiğim sitelerin, anti-anti-ads sistemini engelleyin.** 
 
 ## 🔧 Nasıl Eklenir?
 
